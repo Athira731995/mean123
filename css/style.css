@@ -1,0 +1,35 @@
+
+@media(min-width:576px){
+    .mydiv{
+        background-color: indigo;
+        max-width: 50%;
+        height:auto;
+    }
+
+}
+@media(max-width:576px){
+    .mydiv{
+        background-color: blue;
+        width: 100%;
+        height:auto;
+    }
+
+}
+div{
+    width: 150px;
+    height: 150px;
+}
+.div1{
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+}
+
+.div2{
+    background-color:blue;
+    position: absolute;
+    left:58%;
+    top:50%;
+    
+}
